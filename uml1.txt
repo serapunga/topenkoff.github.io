@@ -4,9 +4,9 @@ skinparam class {
 	ArrowColor Black
 	BorderColor Black
 }
-class "P?" as P {
- M?
-O? A? (I?, C?)
+class "Рабочий" as P {
+ Станок
+Деталь Вытачивать (Металл, В рабочее время)
 }
 hide circle
 @enduml
