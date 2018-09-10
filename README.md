@@ -2,7 +2,7 @@
 # студент группы ИДБ-15-14 Кайшев Д.А.
 
 ## Лабораторная 1
-
+[ссылка на модель](https://github.com/topenkoff/topenkoff.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B01.rsf)
 ## Лабораторная 2
 
 ## Лабораторная 3
