@@ -3,6 +3,10 @@
 
 ## Лабораторная 1
 [ссылка на модель](https://github.com/topenkoff/topenkoff.github.io/blob/master/%D0%BB%D0%B0%D0%B1%D0%B01.rsf)
+[текст первой диаграммы](https://github.com/topenkoff/topenkoff.github.io/blob/master/uml1.txt)
+[текст второй диаграммы](https://github.com/topenkoff/topenkoff.github.io/blob/master/uml2.txt)
+[изображение первой диаграммы](https://github.com/topenkoff/topenkoff.github.io/blob/master/image_uml1.PNG)
+[изображение первой диаграммы](https://github.com/topenkoff/topenkoff.github.io/blob/master/image_uml2.PNG)
 ## Лабораторная 2
 
 ## Лабораторная 3
